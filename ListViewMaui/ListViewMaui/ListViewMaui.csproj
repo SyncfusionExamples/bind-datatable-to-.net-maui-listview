@@ -51,7 +51,7 @@
 
 
 	<ItemGroup>
-	  <PackageReference Include="Syncfusion.Maui.ListView" Version="20.4.38" />
+	  <PackageReference Include="Syncfusion.Maui.ListView" Version="*" />
 	</ItemGroup>
 
 	<ItemGroup>
